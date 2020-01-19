@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">week4</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_reverse">Reverse</string>
+    <string name="button_start">Second Activity</string>
+    <string name="backButton">Back</string>
+</resources>
